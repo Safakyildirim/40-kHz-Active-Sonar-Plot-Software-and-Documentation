@@ -1,0 +1,31 @@
+Added Component: Designator=J1(Terminal 1x4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=+5 Pin=R7-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R8-2
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component J1 Ternminal 1x4
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R7 10K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R8 10K?
+Added Room: Name=Sonar_Sheet1

@@ -1,0 +1,23 @@
+[PROJECT]
+Target=PIC CCS C.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.007
+Compiler=PCM
+CCSVersion=5.007
+[Target Data]
+FileList=PIC CCS C.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\Þafak\Desktop\PIC CCS C LCD\
+[C:\Users\Þafak\Desktop\PIC CCS C1\PIC CCS C]
+Type=4
+[mru-list]
+1=PIC CCS C.c
+[Opened Files]
+1=PIC CCS C.c
+2=
+3=
+[PIC CCS C.c]
+Type=4
+[Units]
+Count=1
+1=PIC CCS C (main)

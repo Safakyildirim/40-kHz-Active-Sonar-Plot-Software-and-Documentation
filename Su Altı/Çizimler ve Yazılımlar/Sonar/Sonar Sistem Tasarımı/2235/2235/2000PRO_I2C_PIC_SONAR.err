@@ -1,0 +1,6 @@
+*** Error 101 "2000PRO_I2C_PIC_SONAR.c" Line 4(5,15): Library not found   "I2C.LIB"
+*** Error 128 "2000PRO_I2C_PIC_SONAR.c" Line 5(9,15): A #DEVICE required before this line
+--- Info 300 "2000PRO_I2C_PIC_SONAR.c" Line 8(20,21): More info:   ** I/O error 131
+*** Error 44 "2000PRO_I2C_PIC_SONAR.c" Line 8(20,21): Internal Error - Contact CCS
+      3 Errors,  0 Warnings.
+Build Failed.

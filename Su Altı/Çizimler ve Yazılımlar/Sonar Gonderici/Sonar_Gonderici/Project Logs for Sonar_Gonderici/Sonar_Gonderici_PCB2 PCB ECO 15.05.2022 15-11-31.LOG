@@ -1,0 +1,15 @@
+Added Component: Designator=C?(THT CAP POL)
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.direnc.net/47uf16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://www.direnc.net/2-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://www.direnc.net/2-pin-508mm-90-erkek-gecmeli-yesil-klemens-1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_3 Pin=C?-1
+Added Pin To Net: NetName=NetB1_3 Pin=C?-2
+Added Pin To Net: NetName=NetB1_3 Pin=C?-3
+Added Pin To Net: NetName=GND Pin=C?-4
+Added Pin To Net: NetName=GND Pin=C?-5
+Added Pin To Net: NetName=GND Pin=C?-6
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component C? Tht Cap
+Added Room: Name=Sonar_Gonderici_Sheet1

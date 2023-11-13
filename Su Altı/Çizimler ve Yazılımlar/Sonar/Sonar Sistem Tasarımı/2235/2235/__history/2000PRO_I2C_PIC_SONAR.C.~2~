@@ -1,0 +1,125 @@
+//RCM2000PRO I2C PIC SONAR EXAMPLE CODE
+// Joe Bradshaw 04-15-04
+
+//#use "i2c.lib"
+//#define PIC_SONAR_ADDRESS 0xa2   //I2C SONAR PIC
+
+//------------------------ Prototypes -------------------------------------------
+void InitExtIO(void);
+//---------------------------- Global Variables  --------------------------------
+
+int I2CWrite_PIC_SONAR(unsigned char slave,char *buf)
+{
+   auto unsigned char cnt;
+   auto short int err;
+
+   if (err=i2c_startw_tx())
+   {
+      i2c_stop_tx();
+      return -10+err; // Return too long stretching
+   }
+   if (err=i2c_wr_wait(slave))
+   {
+      i2c_stop_tx();
+      return -20+err; // Return no ack on slave (retried)
+   }
+   for (cnt=0;buf[cnt]!= '\0';cnt++)
+   {
+      i2c_write_char(buf[cnt]);
+      }
+   i2c_stop_tx();
+   return 0;
+}
+
+//--------------------------------------------------------------------------
+int I2CRead_SONAR_PIC(unsigned char slave,char *buf)
+{
+   auto unsigned char cnt;
+   auto short int err;
+
+   cnt=0;
+
+
+   if (err=i2c_startw_tx())
+   {
+      i2c_stop_tx();
+      return -40+err; // Return too long stretch on read
+   } 
+   if (err=i2c_wr_wait(slave+1))
+   {
+      i2c_stop_tx();
+      return -50+err; // Send read to slave - no ack (retried) return -5
+   }
+   while(1)
+   {
+      err=i2c_read_char(&buf[cnt]);
+      if (err)
+      {
+         i2c_stop_tx();
+         return -60+err;
+      } 
+      if (buf[cnt] == 0x00)
+      {
+         i2c_send_nak();
+         break;
+      }
+      else
+            {
+         i2c_send_ack();
+      }
+      cnt++;
+   }
+   i2c_stop_tx();
+   return 0;
+}
+//-------------------------------------------------------------------------------
+nodebug void MsDelay(int MS)   // Millisecond delay
+   {
+    long SavTimer, TimerDiff;
+    TimerDiff = 0;
+    SavTimer = MS_TIMER;
+    while(TimerDiff < MS) {TimerDiff = MS_TIMER - SavTimer;}
+   }
+//----------External Data Bus Initialization routine---------------------------------
+void InitExtIO(void)
+{
+WrPortI(I0CR, &I0CRShadow, 0x00);
+WrPortI(I1CR, &I1CRShadow, 0x00);
+WrPortI(PEDDR, &PEDDRShadow, 0xff);      //All PORTE bits are outputs
+WrPortI(PEFR, &PEFRShadow, 0xff);      //All PORTE bits are alt. I/O control signal
+WrPortI(PECR, &PECRShadow, 0x00);      //Transfer on PCLK/2
+WrPortI(IB0CR, &IB0CRShadow, 0x78);      //(PE0)MAX197, 7 Waits,CS & WR
+WrPortI(IB1CR, &IB1CRShadow, 0xf8);      //(PE1)USB245M,1 Wait, CS
+//WrPortI(IB2CR, &IB2CRShadow, 0x48);      //(PE2)Encoder1, 7 Waits,CS & WR
+//WrPortI(IB3CR, &IB3CRShadow, 0x48);      //(PE3)Encoder2, 7 Waits,CS & WR
+WrPortI(IB6CR, &IB6CRShadow, 0x38);      //(PE6)3 waits, WR/RD Strobe, WR allowed
+      //IDE Interface 8255 CS
+WrPortI(IB7CR, &IB7CRShadow, 0x38);      //(PE7) 3 waits, CS
+      //PWM_PIC_Motor_Control_Board
+WrPortI(PDCR, &PDCRShadow, 0x00);
+WrPortI(PDFR, &PDFRShadow, 0x00);//Bit's function normally as I/O
+WrPortI(PDDCR, &PDDCRShadow, 0xc0);//PD6 & 7 are open drain, rest are driven high or low
+WrPortI(PDDDR, &PDDDRShadow, 0x03);//PD0 and PD1 are outputs, rest inputs
+}
+//------------------------------   MAIN   -------------------------------------------
+
+main()
+{
+int i;
+char buf_in[4];
+const char buf_out[] = {"\r"};
+unsigned int port;
+
+InitExtIO();                     //Initialize RCM2000 data bus control 
+i2c_init();                        //Initialize i2c bus (PD6 = SCL, PD7 = SDA)
+
+for(i=0;i<strlen(buf_in);i++)
+   buf_in[i] = '\0';
+   
+while(1)  //MAIN PROJECT WHILE LOOP
+   {
+      I2CWrite_PIC_SONAR(PIC_SONAR_ADDRESS,buf_out);
+      I2CRead_SONAR_PIC(PIC_SONAR_ADDRESS, buf_in);
+      printf("%s \r", buf_in);   
+   }  //while(1)
+}  //main

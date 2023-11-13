@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetB1_3 Pin=R1-1
+Removed Pin From Net: NetName=NetB1_3 Pin=R1-3
+Removed Pin From Net: NetName=NetB1_3 Pin=R1-4
+Removed Pin From Net: NetName=GND Pin=R1-5
+Removed Pin From Net: NetName=GND Pin=R1-6
+Removed Member From Class: ClassName=Sonar_Gonderici_Sheet1 Member=R1
+Added Component: Designator=C1(THT CAP POL)
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.direnc.net/47uf16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://www.direnc.net/2-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://www.direnc.net/2-pin-508mm-90-erkek-gecmeli-yesil-klemens-1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_3 Pin=C1-1
+Added Pin To Net: NetName=NetB1_3 Pin=C1-3
+Added Pin To Net: NetName=GND Pin=C1-4
+Added Pin To Net: NetName=NetB1_3 Pin=C1-4
+Added Pin To Net: NetName=GND Pin=C1-5
+Added Pin To Net: NetName=GND Pin=C1-6
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component C1 Tht Cap

@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=NetJ4_1 Pin=U3-2
+Removed Pin From Net: NetName=NetD1_2 Pin=U3-3
+Change Component Footprint: Designator=Q1 Old Footprint=FP-11-10C4-MFG New Footprint=FP-11-10C4-MFG
+Added Component: Designator=B1(2 Pin Switch)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/2-pin-dip-switch"; VariantName = "[No Variations]"
+Added Component: Designator=C1(THT CAP POL)
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.direnc.net/47uf16v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://www.direnc.net/2-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://www.direnc.net/2-pin-508mm-90-erkek-gecmeli-yesil-klemens-1"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Header)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/1x40-precision-disi-header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.signal.com.tr/pdf/cat/PH1S15_17_25-2XX-L_U.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=J7(Header 1x1)
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/1x40-180-12mm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(THT Res)
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.robolinkmarket.com/1-4w-4r7-direnc-paketi-10-adet?_sgm_campaign=fcs_9ec70268bc000&_sgm_source=5399%7Cproduct&_sgm_action=search&_sgm_term=diren%C3%A7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://www.direnc.net/2-pin-508mm-90-erkek-gecmeli-yesil-klemens-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://www.direnc.net/2-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Added Component: Designator=R3(THT Res)
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.robolinkmarket.com/1-4w-4r7-direnc-paketi-10-adet?_sgm_campaign=fcs_9ec70268bc000&_sgm_source=5399%7Cproduct&_sgm_action=search&_sgm_term=diren%C3%A7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://www.direnc.net/2-pin-508mm-90-erkek-gecmeli-yesil-klemens-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://www.direnc.net/2-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1005X40)
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.direnc.net/47k-5-1w-2512-smd-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://www.resistor.com/assets/pdf/2512std.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U1(Transfornator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/2-pin-508mm-90-erkek-gecmeli-yesil-klemens-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/2-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Added Component: Designator=U2(Logic_Mosfet)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/buz101l-29a-50v-mosfet-logl-logic-level-to220?language=tr&h=3cb70a68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robolinkmarket.com/buz101l-29a-50v-mosfet-logl-logic-level-to220-mosfet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robolinkmarket.com/Data/EditorFiles/PDF/buz101l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/3-pin-508mm-disi-gecmeli-klemens-11943"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/3-pin-508mm-90-gecmeli-takim-klemens"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/irlz44n-d2pak-smd-n-kanal-mosfet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://pdf.direnc.net/upload/irlz44nslpbf-datasheet.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=B1-4
+Added Pin To Net: NetName=NetB1_3 Pin=C1-1
+Added Pin To Net: NetName=NetB1_3 Pin=C1-2
+Added Pin To Net: NetName=NetB1_3 Pin=C1-3
+Added Pin To Net: NetName=GND Pin=C1-4
+Added Pin To Net: NetName=GND Pin=C1-5
+Added Pin To Net: NetName=GND Pin=C1-6
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+5 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-3
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-7
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-8
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-9
+Added Pin To Net: NetName=NetB1_1 Pin=R3-1
+Added Pin To Net: NetName=NetB1_1 Pin=R3-2
+Added Pin To Net: NetName=NetB1_1 Pin=R3-3
+Added Pin To Net: NetName=+5 Pin=R3-7
+Added Pin To Net: NetName=+5 Pin=R3-8
+Added Pin To Net: NetName=+5 Pin=R3-9
+Added Pin To Net: NetName=+5 Pin=R4-1
+Added Pin To Net: NetName=NetB1_2 Pin=R4-2
+Added Pin To Net: NetName=NetB1_3 Pin=U1-1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-3
+Added Pin To Net: NetName=NetJ4_1 Pin=U3-1
+Added Pin To Net: NetName=NetD1_2 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=Q1-3
+Added Net: Name=NetJ7_1
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component B1 2 Pin Switch
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component C1 Tht Cap
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component J1 Header
+Added Member To Class: ClassName=Sheet1 Member=Component J7 Header 1x1
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component R2 Tht Res
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component R3 Tht Res
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component R4 Smd Res
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component U1 Transformator
+Added Member To Class: ClassName=Sonar_Gonderici_Sheet1 Member=Component U2 Logic_Mosfet
+Added Room: Name=Sheet1
+Added Room: Name=Sonar_Gonderici_Sheet1

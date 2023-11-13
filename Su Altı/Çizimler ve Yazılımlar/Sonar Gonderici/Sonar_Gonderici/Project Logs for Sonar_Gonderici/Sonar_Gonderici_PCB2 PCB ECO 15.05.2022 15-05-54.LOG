@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetB1_3 Pin=U1-1
+Removed Pin From Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetB1_3 Pin=R1-4
+Added Pin To Net: NetName=NetU1_2 Pin=U1-1
+Added Pin To Net: NetName=NetB1_3 Pin=U1-2
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetU1_1
+Added Room: Name=Sonar_Gonderici_Sheet1

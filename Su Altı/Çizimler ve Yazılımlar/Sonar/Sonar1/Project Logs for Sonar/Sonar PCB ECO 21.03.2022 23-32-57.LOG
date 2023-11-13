@@ -1,0 +1,590 @@
+Added Component: Designator=C1(CAP.EL.)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/50v-1-uf-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.jameco.com/Jameco/Products/ProdDS/29831.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/1nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/1nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/1nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/1nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/1nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/1nf-seramik-kondansator-paketi-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP.EL.)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/50v-1-uf-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.jameco.com/Jameco/Products/ProdDS/29831.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Header 1x4)
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/1x40-180-12mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R2(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R3(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R4(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R5(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R6(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R7(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R8(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R9(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R10(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R11(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R12(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R13(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R14(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R15(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R16(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=R17(THT Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/14w-10k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/14w-56k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/14w-1k-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.robomarket.com.tr/6-2k-direnc-1-adet-1-4w"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.robotistan.com/12w-75k-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://www.direnc.net/75k-14w-metalfilm-direnc-paketi-100-adet-1?language=tr&h=cb2d2062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.robotistan.com/14w-4k7-direnc-paketi-10-adet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.robotistan.com/2w-120k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://www.robotistan.com/14w-3k9-direnc-paketi-10-adet?language=tr&h=0f40f5ee&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi8jDuTXAWIdHih4LhQcB3YXTjEJ8OgB0uW3rlfstCae65K6p5gflnBoC2EgQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://www.motorobit.com/urun/3-3m-1-4w-direnc-10-adet"; VariantName = "[No Variations]"
+Added Component: Designator=S1(Ultrasonic Sensor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/suya-dayanikli-ultrasonik-sensor-10mm?language=tr&h=b3c9ab81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/rt40k-ultrasonik-sensor-16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://tr.aliexpress.com/item/33039788263.html?spm=a2g0o.productlist.0.0.66bc1f47oNyabD&algo_pvid=28f77d51-3c5b-4650-aee5-95afa2ae2236&algo_exp_id=28f77d51-3c5b-4650-aee5-95afa2ae2236-42&pdp_ext_f=%7B%22sku_id%22%3A%2267411356863%22%7D&pdp_pi=-1%3B17.15%3B-1%3B-1%40salePrice%3BTRY%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Added Component: Designator=S2(Ultrasonic Sensor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/suya-dayanikli-ultrasonik-sensor-10mm?language=tr&h=b3c9ab81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/rt40k-ultrasonik-sensor-16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://tr.aliexpress.com/item/33039788263.html?spm=a2g0o.productlist.0.0.66bc1f47oNyabD&algo_pvid=28f77d51-3c5b-4650-aee5-95afa2ae2236&algo_exp_id=28f77d51-3c5b-4650-aee5-95afa2ae2236-42&pdp_ext_f=%7B%22sku_id%22%3A%2267411356863%22%7D&pdp_pi=-1%3B17.15%3B-1%3B-1%40salePrice%3BTRY%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LM324)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM324N/Texas%20Instruments/view-part/295/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/lm324-dip14?language=tr&h=409e2aff&gclid=CjwKCAjwxOCRBhA8EiwA0X8hiwXGgK4v1rrybFC684ThaUQRfGP744yHBnQdMK1VYz9g8hevPAV6yhoCZSUQAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.ti.com/lit/ds/symlink/lm124-n.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM324N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM324N/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM324N/Texas%20Instruments/view-part/295/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(EM78P153S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.agspecinfo.com/pdfs/E/EM78P153.PDF"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MAX232)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/max232-dip16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "120Kbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 17, 01/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.maximintegrated.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "16-Pin Small Outline Integrated Circuit, Body 9.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "S16+5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://pdfserv.maximintegrated.com/package_dwgs/21-0041.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. G, 01/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "10us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receivers"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "RS-232"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crsytal)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/27000-mhz-kristal-hc-49s-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.newteck-ci.com.br/datasheet/20140520084905.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=R14-1
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U2-4
+Added Pin To Net: NetName=+5 Pin=U3-5
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-5
+Added Pin To Net: NetName=NetC2_1 Pin=U1-10
+Added Pin To Net: NetName=NetC2_1 Pin=U1-12
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R6-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R13-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-6
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C6-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R7-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R11-1
+Added Pin To Net: NetName=NetC4_2 Pin=U1-9
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R12-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-13
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R8-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R6-1
+Added Pin To Net: NetName=NetC6_2 Pin=R11-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-8
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R2-2
+Added Pin To Net: NetName=NetC7_1 Pin=R15-1
+Added Pin To Net: NetName=NetC7_1 Pin=R17-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-2
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R13-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-7
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R9-1
+Added Pin To Net: NetName=NetR5_2 Pin=U1-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R12-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-14
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=S1-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R14-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-10
+Added Pin To Net: NetName=NetR9_2 Pin=U3-4
+Added Pin To Net: NetName=NetR9_2 Pin=U3-6
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R16-1
+Added Pin To Net: NetName=NetR10_2 Pin=U3-3
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U2-9
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=NetS2_1 Pin=U3-7
+Added Net: Name=NetS2_1
+Added Pin To Net: NetName=NetS2_2 Pin=S2-2
+Added Pin To Net: NetName=NetS2_2 Pin=U3-14
+Added Net: Name=NetS2_2
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=Y1-1
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Pin To Net: NetName=NetU2_6 Pin=Y1-2
+Added Net: Name=NetU2_6
+Added Pin To Net: NetName=NetU2_13 Pin=U2-13
+Added Pin To Net: NetName=NetU2_13 Pin=U3-11
+Added Net: Name=NetU2_13
+Added Pin To Net: NetName=NetU2_14 Pin=U2-14
+Added Pin To Net: NetName=NetU2_14 Pin=U3-10
+Added Net: Name=NetU2_14
+Added Class: Name=Sonar
+Added Room: Name=Sonar

@@ -1,0 +1,383 @@
+Added Component: Designator=B1(Toroidi Transformator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.direnc.net/100nf-63v-seramik"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/10nf-0-01uf-250vac-15mm-polyester-kondansator_pdp_737477069?srsltid=AWLEVJz16SnKX2NDZaIIXPvCbCHJrqrlRK97N02d1jbI8tg-I79--aDE9LQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/ero-0-1uf-100nf-104-63v-poly-kapasitor-1-adet-fiyatidir_pdp_567908829?srsltid=AWLEVJxjHrN956zYqkQJwJOlEd-L4Xspu9kCsmMCN64mFV4zCJysjyK6NUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.direnc.net/22-pf-63v-kondansator"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP POL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/50v-47-uf-kondansator?language=tr&h=1c00dcc6&gclid=CjwKCAjw8sCRBhA6EiwA6_IF4VXoQwnzNkJJ9WqRPn2NBUHTJmkaiTyihiBkaYJlX-EbQcFZ5TCuURoCGtoQAvD_BwE"; VariantName = "[No Variations]"
+Added Component: Designator=D1(Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/1n4007-diyot-mic?language=tr&h=be9c89b5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf.direnc.net/upload/1n4007-mic-datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D2(Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/1n4007-diyot-mic?language=tr&h=be9c89b5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf.direnc.net/upload/1n4007-mic-datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D3(Diode)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/1n4007-diyot-mic?language=tr&h=be9c89b5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf.direnc.net/upload/1n4007-mic-datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Terminal 1x2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(Terminal 1x2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(Terminal 1x2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M1(LCD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/2x16-lcd-display-sol-ust-mavi-qapass"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(2SC945)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/2sc945-npn-transistor-to-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf.direnc.net/upload/2sc945-datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Trimpot)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10k-trimpot-yatik-pt10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/10k-trimpot-yatik-pt10"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Trimpot)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/10k-trimpot-yatik-pt10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.robotistan.com/10k-trimpot-yatik-pt10"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/100k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.direnc.net/10k-14w-direnc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.direnc.net/330r-14w-direnc"; VariantName = "[No Variations]"
+Added Component: Designator=S1(EU10PIF200H07T R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/suya-dayanikli-ultrasonik-sensor-10mm?language=tr&h=b3c9ab81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://tr.aliexpress.com/item/33039788263.html?spm=a2g0o.productlist.0.0.66bc1f47oNyabD&algo_pvid=28f77d51-3c5b-4650-aee5-95afa2ae2236&algo_exp_id=28f77d51-3c5b-4650-aee5-95afa2ae2236-42&pdp_ext_f=%7B%22sku_id%22%3A%2267411356863%22%7D&pdp_pi=-1%3B17.15%3B-1%3B-1%40salePrice%3BTRY%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Added Component: Designator=S2(EU10PIF200H07T R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robotistan.com/suya-dayanikli-ultrasonik-sensor-10mm?language=tr&h=b3c9ab81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://tr.aliexpress.com/item/33039788263.html?spm=a2g0o.productlist.0.0.66bc1f47oNyabD&algo_pvid=28f77d51-3c5b-4650-aee5-95afa2ae2236&algo_exp_id=28f77d51-3c5b-4650-aee5-95afa2ae2236-42&pdp_ext_f=%7B%22sku_id%22%3A%2267411356863%22%7D&pdp_pi=-1%3B17.15%3B-1%3B-1%40salePrice%3BTRY%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AD605BRZ/Analog+Devices+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://karakoyelektronik.com/entegre-opamp/ad605arz-ad605-soic-16-smd-entegre-73227"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/ad605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD605BRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AD605BRZ/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD605BRZ/Analog+Devices+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP787W46P254L3467H508Q28)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PIC16F876A-E/SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SPDIP-28 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PIC16F876A-E/SP/Microchip/view-part/39708/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.direnc.net/20000mhz-kristal-hc-49s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://pdf.direnc.net/upload/hc-49s-datasheet.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=+5 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetB1_2 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC4_2 Pin=D1-1
+Added Pin To Net: NetName=NetC6_1 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetC4_2 Pin=D2-2
+Added Pin To Net: NetName=+5 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=NetD3_2 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+5 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=+5 Pin=M1-2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_5 Pin=M1-5
+Added Pin To Net: NetName=NetM1_6 Pin=M1-6
+Added Pin To Net: NetName=NetM1_11 Pin=M1-11
+Added Pin To Net: NetName=NetM1_12 Pin=M1-12
+Added Pin To Net: NetName=NetM1_13 Pin=M1-13
+Added Pin To Net: NetName=NetM1_14 Pin=M1-14
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetC6_1 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=+5 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetB1_2 Pin=R6-1
+Added Pin To Net: NetName=+5 Pin=R6-2
+Added Pin To Net: NetName=+5 Pin=R7-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NetC3_2 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=NetB1_4 Pin=S2-2
+Added Pin To Net: NetName=NetR4_3 Pin=U1-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC5_1 Pin=U1-6
+Added Pin To Net: NetName=NetC8_1 Pin=U1-7
+Added Pin To Net: NetName=NetR4_3 Pin=U1-8
+Added Pin To Net: NetName=NetC2_2 Pin=U1-9
+Added Pin To Net: NetName=NetC4_1 Pin=U1-10
+Added Pin To Net: NetName=+5 Pin=U1-12
+Added Pin To Net: NetName=+5 Pin=U1-13
+Added Pin To Net: NetName=NetC5_2 Pin=U1-15
+Added Pin To Net: NetName=NetC1_2 Pin=U1-16
+Added Pin To Net: NetName=NetD3_2 Pin=U2-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-2
+Added Pin To Net: NetName=NetM1_14 Pin=U2-4
+Added Pin To Net: NetName=NetM1_13 Pin=U2-5
+Added Pin To Net: NetName=NetM1_12 Pin=U2-6
+Added Pin To Net: NetName=NetM1_11 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC9_2 Pin=U2-9
+Added Pin To Net: NetName=NetC10_2 Pin=U2-10
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-13
+Added Pin To Net: NetName=NetJ1_4 Pin=U2-14
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=+5 Pin=U2-20
+Added Pin To Net: NetName=NetM1_4 Pin=U2-22
+Added Pin To Net: NetName=NetM1_5 Pin=U2-23
+Added Pin To Net: NetName=NetM1_6 Pin=U2-24
+Added Pin To Net: NetName=NetJ2_3 Pin=U2-27
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-28
+Added Pin To Net: NetName=NetC9_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-2
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component B1 45kHz Toroidi Transformator
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C1 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C2 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C3 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C5 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C6 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C7 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C8 0.1uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C9 22pF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C10 22pF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C11 100nF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component C12 4.7uF
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component D1 1N4007
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component D2 1N4007
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component D3 1N4007
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component J1 Ternminal 1x4
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component J2 Ternminal 1x4
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component J3 Ternminal 1x2
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component M1 LCD
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component Q1 2SC945
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R1 100K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R2 100K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R3 10K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R4 Trimpot
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R5 Trimpot
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R6 4?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R7 10K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R8 10K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component R9 10K?
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component S1 EU10PIF200H07T R
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component S2 EU10PIF200H07T R
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component U1 AD605BRZ
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component U2 PIC16F876A-E/SP
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component Y1 20MHz Crystal
+Added Room: Name=Sonar_Sheet1

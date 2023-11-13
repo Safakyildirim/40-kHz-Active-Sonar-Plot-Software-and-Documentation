@@ -1,0 +1,55 @@
+Added Component: Designator=J1(Header 1x7)
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/1x40-180-12mm"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Header 1x7)
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/1x40-180-12mm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(EM78P153S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.agspecinfo.com/pdfs/E/EM78P153.PDF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-14
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-13
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-12
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=U1-11
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=U1-10
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=U1-9
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=U1-8
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=U1-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-5
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=U1-6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Pin To Net: NetName=NetJ2_7 Pin=U1-7
+Added Net: Name=NetJ2_7
+Added Class: Name=Sonar_Mcu_Sheet
+Added Room: Name=Sonar_Mcu_Sheet

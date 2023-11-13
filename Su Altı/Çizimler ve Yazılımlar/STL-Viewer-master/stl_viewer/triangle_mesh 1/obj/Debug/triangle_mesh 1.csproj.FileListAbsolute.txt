@@ -1,0 +1,6 @@
+C:\Users\Şafak\Desktop\STL-Viewer-master\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.AssemblyReference.cache
+C:\Users\Şafak\Desktop\STL-Viewer-master\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şafak\Desktop\STL-Viewer-master\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+C:\Users\Şafak\Desktop\STL-Viewer-master\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+C:\Users\Şafak\Desktop\STL-Viewer-master\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.cache
+C:\Users\Şafak\Desktop\STL-Viewer-master\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.CoreCompileInputs.cache

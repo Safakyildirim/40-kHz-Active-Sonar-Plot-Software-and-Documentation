@@ -1,0 +1,21 @@
+Added Component: Designator=J1(Terminal)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(Header 1x2)
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/1x40-180-12mm"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Header 1x2)
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.robotistan.com/1x40-180-12mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetC5_2 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+5 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetC1_2 Pin=J3-2
+Added Member To Class: ClassName=AD_605_Sheet1 Member=Component J1 Terminal
+Added Member To Class: ClassName=AD_605_Sheet1 Member=Component J2 Header 1x2
+Added Member To Class: ClassName=AD_605_Sheet1 Member=Component J3 Header 1x2
+Added Room: Name=AD_605_Sheet1

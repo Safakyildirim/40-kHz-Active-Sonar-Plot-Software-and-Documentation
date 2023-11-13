@@ -1,0 +1,11 @@
+Added Component: Designator=J2(Terminal 1x4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_2 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Member To Class: ClassName=Sonar_Sheet1 Member=Component J2 Ternminal 1x4
+Added Room: Name=Sonar_Sheet1
